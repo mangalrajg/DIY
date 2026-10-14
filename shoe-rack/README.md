@@ -148,32 +148,32 @@ Drill ALL holes before assembling. Two kinds of holes:
 
 ## Figures
 
-All figures are in `pdf_img/`. Figure numbers run sequentially in reading order:
+All figures are in `pdf_img/` (20 images). Figure numbers run sequentially in reading order:
 
 1. `fig1-overview.jpg` — Front and side views, overall dimensions
-2. Parts inventory diagram (generated)
-3. `—` Sheet 1 cutting diagram (generated)
-4. `—` Sheet 2 cutting diagram (generated)
+2. Parts inventory diagram (generated in code)
+3. Sheet 1 cutting diagram (generated in code)
+4. Sheet 2 cutting diagram (generated in code)
 5. `backstop-strips.jpg` — Backstop cutting detail (hand saw)
 6. `pine12-cutting.jpg` — 1×2 where-to-cut guide
-7. Side panel drilling map (generated)
-8. Divider drilling map (generated)
-9. Bottom shelf top view (generated)
-10. Top board top view (generated)
-11. Middle shelf top view (generated)
-12. `media-generation-drill-cross-section-...jpg` — Screw joint cross-section
-13. `media-generation-drill-spots-...jpg` — Side panel drilling drawing
-14. Size comparison: panel vs divider (generated)
+7. Side panel drilling map (generated in code)
+8. Divider drilling map (generated in code)
+9. `fig7-bottom.jpg` — Bottom shelf top view
+10. Top board top view (generated in code)
+11. Middle shelf top view (generated in code)
+12. `fig11-screw.jpg` — Screw joint cross-section
+13. `media-generation-drill-spots-0-e9d673c9-da65-43de-bd61-7591c41c52b0.jpg` — Side panel drilling drawing
+14. Size comparison: panel vs divider (generated in code)
 15. `fig13-marking.jpg` — Marking shelf heights
 16. `fig14-frame.jpg` — Assembled frame
 17. `cleat-joint.jpg` — Cleat joint detail
 18. `cleat-bottom-shelf.jpg` — Bottom shelf on cleats
 19. `divider-cleats.jpg` — Divider bottom joint
 20. `divider-top.jpg` — Divider top joint
-21. `shelves.jpg` — Frame with shelves installed
-22. `pins.jpg` — Shelf pin cross-section
+21. `fig15-shelves.jpg` — Frame with shelves installed
+22. `fig16-pin.jpg` — Shelf pin cross-section
 23. `divider-middle-shelf.jpg` — Shelf on divider pins
-24. `fig18-strips-detail.jpg` — Backstop + lip overview
+24. `fig17-strips.jpg` — Backstop + lip overview
 25. `shelf-iso-top.jpg` — Screw positions & directions (top/isometric/side)
 26. `strips-front.jpg` — Shelf front view with dimensions
 27. `strips-side.jpg` — Shelf side cross-section
