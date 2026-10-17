@@ -148,7 +148,7 @@ Drill ALL holes before assembling. Two kinds of holes:
 
 ## Figures
 
-All figures are in `pdf_img/` (22 images). Figure numbers run sequentially in reading order.
+All figures are in `pdf_img/` (21 images). Figure numbers run sequentially in reading order.
 
 **Updated for the 40×14 redesign:**
 - `sheet1-cutting-14in.jpg` — Sheet 1 cutting diagram (top + 7 shelves)
