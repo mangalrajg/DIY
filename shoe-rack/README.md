@@ -4,7 +4,7 @@
 
 ## What you are building
 
-A 60 in wide × 40 in tall × 14 in deep open shoe rack. Two side panels, a bottom shelf resting on cleats, top board and center divider form a rigid frame — no screw goes through the side panels, so the outside faces stay clean. Eight middle-shelf boards (two per level, one in each bay, four levels at 8 in spacing) rest on metal shelf pins, so you can lift them out or change their height any time. A front lip on each shelf keeps shoes from sliding off.
+A 60 in wide × 40 in tall × 14 in deep open shoe rack. Two side panels, a bottom shelf resting on cleats, top board and center divider form a rigid frame — no screw goes through the side panels, so the outside faces stay clean. Eight middle-shelf boards (two per level, one in each bay, four levels at 8 in spacing) rest on metal shelf pins, so you can lift them out or change their height any time. A backstop on the back edge of each shelf keeps shoes off the wall.
 
 **Design principles:** wooden cleats throughout (no visible metal brackets), no screws through outside faces, no blind screws (every screw goes into a flat face you can see), every joint positively tied so nothing comes off when you lift the rack.
 
@@ -12,26 +12,32 @@ A 60 in wide × 40 in tall × 14 in deep open shoe rack. Two side panels, a bott
 
 ## Shopping List
 
-### Wood
-- 2 sheets of 4×8 ft, ¾ in plywood (sanded pine or BCX)
-- 4 pieces of 1×2 × 8 ft pine board
+### For the build (buy now)
 
-### Hardware
+**Wood**
+- 2 sheets of 4×8 ft, ¾ in plywood (sanded pine or BCX)
+
+**Hardware**
 - #8 × 1-¼ in wood screws — one box of 100 (about 46 needed)
 - #8 × 2 in wood screws — one small box (2 needed: divider cleats to shelf)
 - ¼ in shelf pins — 2 packs (you need 32)
 - Wood glue — 1 bottle
 - Wood filler (small tub)
 - 120-grit sandpaper (a few sheets)
-- Finish of your choice: polyurethane or paint (optional)
+- Sanding block or sanding sponge (~$5 — holds paper flat, much easier on your hands)
+
+### For the paint job (buy later, only if the build goes well)
+
+- 220-grit sandpaper (for sanding between coats)
+- Primer — 1 quart (plywood needs this or paint goes on blotchy)
+- Paint or polyurethane — 1 quart (2 coats)
+- Paint brush + small roller, or foam brushes
 
 ### Tools
 - Drill + drill/driver bits
 - Countersink bit, or a 7/64 in bit for pilot holes
 - ¼ in drill bit (for the shelf-pin holes)
 - Tape measure, pencil, carpenter square
-- 2 clamps (strongly recommended for assembly)
-- Painter's tape (to mark drill depth)
 - Safety glasses
 - Hand saw (for small cuts at home: 8 in divider cleats)
 
@@ -49,19 +55,17 @@ A 60 in wide × 40 in tall × 14 in deep open shoe rack. Two side panels, a bott
 | 8 | Middle shelf | 28.75 × 14 |
 | 1 | Center divider | 37 × 14 |
 
-### 1×2 pine (Home Depot does 28.5 in and 14 in crosscuts; cut the 8 in pieces at home)
+### Backstops & cleats (cut at home from plywood offcuts)
 
-| Qty | Part | Length (in) | Where to cut |
-|-----|------|-------------|--------------|
-| 8 | Front lip | 28.5 | Home Depot |
-| 4 | Side cleat | 14 | Home Depot |
-| 2 | Divider cleat | 8 | Home (hand saw — under HD's 12 in minimum) |
+| Qty | Part | Size (in) | Source |
+|-----|------|-----------|--------|
+| 8 | Backstop | 28.5 × 1.5 | Rip from 6 in offcut strip |
+| 4 | Side cleat | 14 × 1.5 | Rip from 6 in offcut strip |
+| 2 | Divider cleat | 8 × 1.5 | Rip from 6 in offcut strip |
 
-**1×2 cutting plan (4 boards):**
-- Board 1: 3 × 28.5 in lips
-- Board 2: 3 × 28.5 in lips
-- Board 3: 2 × 28.5 in lips + 2 × 14 in cleats
-- Board 4: 2 × 14 in cleats + 2 × 8 in divider cleats (hand saw)
+**How to get them:** Take one 6 in × 96 in rip offcut and rip it into four 1.5 in wide strips (hand saw or circular saw).
+From three strips, crosscut eight 28.5 in backstops (3+3+2 per strip).
+From the fourth strip, cut four 14 in cleats and two 8 in divider cleats.
 
 ---
 
@@ -93,7 +97,7 @@ Drill ALL holes before assembling. Two kinds of holes:
 
 ### Screw pilot holes
 - Pilot + countersink for every screw (prevents plywood splitting)
-- Use painter's tape on the bit as a depth stop
+- Set your drill's depth stop (or mark the bit)
 
 ---
 
@@ -101,7 +105,7 @@ Drill ALL holes before assembling. Two kinds of holes:
 
 ### Step 1 — Sand and drill everything
 - Sand all cut edges with 120-grit sandpaper.
-- Drill every hole using the drilling diagrams. Use painter's tape on the ¼ in bit as a depth stop: ⅜ in for side panels, 5/16 in for the divider (both faces).
+- Drill every hole using the drilling diagrams. Set depth stop on the ¼ in bit: ⅜ in for side panels, 5/16 in for the divider (both faces).
 - Drill pin holes BEFORE assembling — you cannot reach the inside faces afterwards.
 
 ### Step 2 — Assemble the rigid frame
@@ -120,15 +124,23 @@ Drill ALL holes before assembling. Two kinds of holes:
 2. Lower each of the 8 boards onto its 4 pins — two boards per level, one in each bay. No screws.
 3. To remove: lift off. To change heights: move pins to a different row.
 
-### Step 4 — Front lips
-1. Run glue along the front edge of each shelf, press a 1×2 lip (28.5 in) on, and drive 3 screws horizontally through the lip into the shelf edge.
+### Step 4 — Backstops
+1. Run glue along the back edge of each shelf, press a backstop (28.5 × 1.5 in) on, and drive 3 screws horizontally through the backstop into the shelf edge.
 2. Screw positions: ¼, ½, ¾ along the 28.5 in strip length.
 3. Do this for all 8 shelf positions (4 levels × 2 bays).
 
-### Step 5 — Finish and place
-- Fill all screw holes with wood filler. Let dry, sand smooth.
-- Wipe off dust, apply 2 coats of polyurethane or paint.
-- Place about 1 in off the wall. If tippy, add an L-bracket from the top board to a wall stud.
+### Step 5 — Sand, fill, and finish
+- Fill all screw holes and dents with wood filler. Let dry completely.
+- Sand everything with 120-grit on the sanding block, going with the grain. Cut edges need extra attention — they're rougher than the faces.
+- Wipe off all dust with a damp rag. Let dry.
+- If painting: apply one coat of primer first (plywood absorbs paint unevenly without it). Let dry, lightly sand with 220-grit.
+- Apply 2 coats of paint OR 2 coats of polyurethane for a natural look. Let each coat dry fully.
+- Between coats, quick pass with 220-grit, wipe dust, then next coat.
+- Skip the undersides of shelves — nobody sees them.
+
+### Step 6 — Place it
+- Place about 1 in off the wall.
+- If tippy, screw a small L-bracket from the top board into a wall stud.
 
 ---
 
@@ -142,7 +154,7 @@ Drill ALL holes before assembling. Two kinds of holes:
 | Bottom shelf | 58.5 × 14 (top at 2.25 in above floor) |
 | Divider | 37 × 14 (2.25 in to 39.25 in) |
 | Middle shelf | 28.75 × 14 (bay is 28.875 — ⅛ in clearance) |
-| Front lip | 28.5 long (¼ in shorter than shelf, centered) |
+| Backstop | 28.5 × 1.5 in (¼ in shorter than shelf, centered) |
 | Bay width | 28.875 in |
 | Shelf levels | 10.25, 18.25, 26.25, 34.25 in (8 in spacing) |
 
